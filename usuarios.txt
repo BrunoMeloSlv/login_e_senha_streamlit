@@ -1,0 +1,4 @@
+usuario,senha,vendedor
+joao,1234,João
+maria,abcd,Maria
+carlos,1234,Carlos
